@@ -9,10 +9,10 @@
  * - Nothing is ever requested from another origin.
  */
 
-const CACHE_NAME = "orbium-dcf4400ecb23";
+const CACHE_NAME = "orbium-1cb9a5b2a427";
 const PRECACHE = [
-  "assets/index-Buo2_FEq.css",
-  "assets/index-CRp8y7w1.js",
+  "assets/index-C_6FP28G.css",
+  "assets/index-Ci92uySa.js",
   "gfx/1152x784/announcer0.png",
   "gfx/1152x784/announcer1.png",
   "gfx/1152x784/announcer2.png",
@@ -265,7 +265,12 @@ const PRECACHE = [
   "snd/clank.mp3",
   "snd/dock.mp3",
   "snd/explode.mp3",
-  "snd/rotate.mp3"
+  "snd/music-game.mp3",
+  "snd/music-menu.mp3",
+  "snd/rotate.mp3",
+  "snd/ux-gameover.mp3",
+  "snd/ux-level.mp3",
+  "snd/ux-score.mp3"
 ];
 
 const toURL = (path) => new URL(path, self.registration.scope).href;
