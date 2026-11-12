@@ -9,10 +9,10 @@
  * - Nothing is ever requested from another origin.
  */
 
-const CACHE_NAME = "orbium-bcf51494fe21";
+const CACHE_NAME = "orbium-735c0860932b";
 const PRECACHE = [
-  "assets/index-CX8QzoH9.js",
   "assets/index-CYeT_jIw.css",
+  "assets/index-ihz3wlOn.js",
   "gfx/1152x784/announcer0.png",
   "gfx/1152x784/announcer1.png",
   "gfx/1152x784/announcer2.png",
