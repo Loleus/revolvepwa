@@ -1,0 +1,10 @@
+{
+  "liveServer.settings.https": {
+    "enable": true,
+    "key": "E:\\revolvepwa\\.ssl\\key.pem",
+    "cert": "E:\\revolvepwa\\.ssl\\cert.pem",
+    "passphrase": ""
+  },
+  "liveServer.settings.port": 5500
+}
+  
