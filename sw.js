@@ -9,10 +9,10 @@
  * - Nothing is ever requested from another origin.
  */
 
-const CACHE_NAME = "revolve-b8ffc569b8ca";
+const CACHE_NAME = "revolve-5ac75ea7c420";
 const PRECACHE = [
-  "assets/index-C1Hzhp5q.js",
-  "assets/index-CwmiEvkM.css",
+  "assets/index-BUKslXEw.js",
+  "assets/index-Bp3jtMOV.css",
   "fonts/Yarin-Regular.woff2",
   "gfx/1152x784/announcer0.png",
   "gfx/1152x784/announcer1.png",
@@ -266,12 +266,8 @@ const PRECACHE = [
   "snd/clank.mp3",
   "snd/dock.mp3",
   "snd/explode.mp3",
-  "snd/music-game.mp3",
-  "snd/music-menu.mp3",
-  "snd/rotate.mp3",
-  "snd/ux-gameover.mp3",
-  "snd/ux-level.mp3",
-  "snd/ux-score.mp3"
+  "snd/level.mp3",
+  "snd/rotate.mp3"
 ];
 
 const toURL = (path) => new URL(path, self.registration.scope).href;
