@@ -9,10 +9,10 @@
  * - Nothing is ever requested from another origin.
  */
 
-const CACHE_NAME = "revolve-d03659192350";
+const CACHE_NAME = "revolve-771d64da0dda";
 const PRECACHE = [
   "assets/index-8kHcnmnO.css",
-  "assets/index-Dywyi1op.js",
+  "assets/index-DSninGYu.js",
   "fonts/Yarin-Regular.woff2",
   "gfx/1152x784/announcer0.png",
   "gfx/1152x784/announcer1.png",
