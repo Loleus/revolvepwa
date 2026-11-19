@@ -9,10 +9,10 @@
  * - Nothing is ever requested from another origin.
  */
 
-const CACHE_NAME = "revolve-771d64da0dda";
+const CACHE_NAME = "revolve-d8ed0346a778";
 const PRECACHE = [
   "assets/index-8kHcnmnO.css",
-  "assets/index-DSninGYu.js",
+  "assets/index-WiP2jk8j.js",
   "fonts/Yarin-Regular.woff2",
   "gfx/1152x784/announcer0.png",
   "gfx/1152x784/announcer1.png",
@@ -36,6 +36,16 @@ const PRECACHE = [
   "gfx/1152x784/bar9.png",
   "gfx/1152x784/clock0.png",
   "gfx/1152x784/clock1.png",
+  "gfx/1152x784/clock10.png",
+  "gfx/1152x784/clock11.png",
+  "gfx/1152x784/clock12.png",
+  "gfx/1152x784/clock13.png",
+  "gfx/1152x784/clock14.png",
+  "gfx/1152x784/clock15.png",
+  "gfx/1152x784/clock16.png",
+  "gfx/1152x784/clock17.png",
+  "gfx/1152x784/clock18.png",
+  "gfx/1152x784/clock19.png",
   "gfx/1152x784/clock2.png",
   "gfx/1152x784/clock3.png",
   "gfx/1152x784/clock4.png",
